@@ -63,7 +63,7 @@ h2 {
 /* Responsive Styling */
 @media (max-width: 600px) {
   .app-container {
-    width: 90%;
+    width: 80vw;
     padding: 15px;
   }
 
